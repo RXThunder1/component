@@ -1,0 +1,12 @@
+.cell {
+    transition: background-color 0.3s;
+    border-radius: 5px;
+ }
+ 
+ .cell.on {
+    background-color: yellow;
+ }
+ 
+ .cell.off {
+    background-color: gray;
+ }
